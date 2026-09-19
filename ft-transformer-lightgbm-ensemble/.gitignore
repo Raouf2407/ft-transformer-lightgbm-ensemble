@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# les donnees du concours ne sont pas redistribuables
+data/*.csv
+data/*.zip
+
+# resultats generes par les scripts
+outputs/*.csv
+outputs/*.txt
